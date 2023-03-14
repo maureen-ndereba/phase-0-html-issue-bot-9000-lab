@@ -6,6 +6,7 @@
 
 ## Introduction
 
+
 Let's practice using the W3C's HTML Validator!
 
 ## Demonstrate Writing Valid HTML
